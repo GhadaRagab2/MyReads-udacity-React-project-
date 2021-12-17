@@ -8,7 +8,7 @@ MyReads is a simple Library app that allows you to place books in one of three s
 
 ## Installation:
 
-npm install or yarn install
+npm install (npm i) or yarn install
 
 ## Available Scripts
 
